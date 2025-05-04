@@ -1,0 +1,18 @@
+#blueContainer {
+    background-color: dodgerblue;
+    border: solid 4px midnightblue;
+    width: 400px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#pinkContainer {
+    background-color: palevioletred;
+    border: solid 6px maroon;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    font-weight: bold ;
+}
